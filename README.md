@@ -14,3 +14,4 @@ Here, is my youtube channel link-{https://www.youtube.com/channel/UCfiRaCS6BpjlD
 
 https://user-images.githubusercontent.com/99118678/159203615-c177cc5a-8b38-4cc4-b5f4-554da142cf0d.mp4
 
+[Langrange Points.pdf](https://github.com/DhruvKumarPHY/YOUTUBE-CODING_MY_UNIVERSE/files/8316611/Langrange.Points.pdf)
