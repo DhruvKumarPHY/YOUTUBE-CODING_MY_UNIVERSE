@@ -29,3 +29,5 @@ https://user-images.githubusercontent.com/99118678/159203615-c177cc5a-8b38-4cc4-
 <img width="868" alt="Screenshot 2022-04-18 at 4 10 07 PM" src="https://user-images.githubusercontent.com/99118678/164221820-e817cee1-b6f8-4df0-982c-67c463a6fd5d.png">
 
 <img width="764" alt="Screenshot 2022-04-18 at 2 47 20 PM" src="https://user-images.githubusercontent.com/99118678/164221842-8358f0d0-6319-4501-b34b-d304786deb4e.png">
+
+![a72fee7fa93d0f5c698d680d56956073_w200](https://user-images.githubusercontent.com/99118678/164570843-c8f854ad-3f49-4d04-ba2c-c274ad4f20d7.gif)
