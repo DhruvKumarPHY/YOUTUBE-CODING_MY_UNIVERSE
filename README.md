@@ -37,4 +37,6 @@ https://user-images.githubusercontent.com/99118678/159203615-c177cc5a-8b38-4cc4-
 ![download-2](https://user-images.githubusercontent.com/99118678/165721119-1bd55a4d-84c2-4f37-ae4f-dd47ebe179e2.jpg)
 ![download-1](https://user-images.githubusercontent.com/99118678/165721126-bd644285-6562-4a3e-8957-f690085e4708.jpg)
 ![download](https://user-images.githubusercontent.com/99118678/165721128-d0cf30f7-a9bb-468f-97ba-7cb50153ba8c.jpg)
+<img width="661" alt="Star_Cluster" src="https://user-images.githubusercontent.com/99118678/166206371-37d24a00-2776-4d72-b3a9-2f04bbcd5c73.png">
+<img width="813" alt="Crab_Nebula" src="https://user-images.githubusercontent.com/99118678/166206400-941d820d-4663-4e53-8cea-d198ffd801b4.png">
 
