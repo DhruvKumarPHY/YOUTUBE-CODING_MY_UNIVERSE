@@ -39,5 +39,6 @@ https://user-images.githubusercontent.com/99118678/159203615-c177cc5a-8b38-4cc4-
 ![download](https://user-images.githubusercontent.com/99118678/165721128-d0cf30f7-a9bb-468f-97ba-7cb50153ba8c.jpg)
 <img width="661" alt="Star_Cluster" src="https://user-images.githubusercontent.com/99118678/166206371-37d24a00-2776-4d72-b3a9-2f04bbcd5c73.png">
 <img width="813" alt="Crab_Nebula" src="https://user-images.githubusercontent.com/99118678/166206400-941d820d-4663-4e53-8cea-d198ffd801b4.png">
-<img width="876" alt="Screenshot 2022-05-03 at 7 11 31 AM" src="https://user-images.githubusercontent.com/99118678/166392516-0658b38a-167c-4d3e-b89a-7811c8234af8.png">
+<img width="876" alt="Screenshot 2022-05-03 at 7 11 31 AM" src="https://user-images.githubusercontent.com/99118678<img width="553" alt="Screenshot 2022-05-05 at 7 01 39 AM" src="https://user-images.githubusercontent.com/99118678/166885830-80c97a0f-3273-4d0d-ab6e-11576e0f94c5.png">
+/166392516-0658b38a-167c-4d3e-b89a-7811c8234af8.png">
 
